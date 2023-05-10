@@ -16,7 +16,7 @@ Welcome to our Catering Reservation and Ordering presentation. We are committed 
 
 **Gallery section**
 
-
+![image](https://github.com/AtharvaKhopade/Amantran-Catering/assets/90155235/f71b079a-b693-454a-b466-ff3092a1b98f)
 
 **Price section**
 
