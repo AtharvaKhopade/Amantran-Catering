@@ -20,13 +20,16 @@ Welcome to our Catering Reservation and Ordering presentation. We are committed 
 
 **Price section**
 
-
+![image](https://github.com/AtharvaKhopade/Amantran-Catering/assets/90155235/67e5b2ec-599d-4598-9c7f-5b6477543048)
 
 **Review section**
 
+![image](https://github.com/AtharvaKhopade/Amantran-Catering/assets/90155235/fab26549-f41b-4aaf-8c31-2c22f3710848)
 
 **Contact-Us section**
 
-
+![image](https://github.com/AtharvaKhopade/Amantran-Catering/assets/90155235/d53b2a37-14a1-4053-a2ec-7eb33a4cb8b0)
 
 **Footer section**
+
+![image](https://github.com/AtharvaKhopade/Amantran-Catering/assets/90155235/d3ba58f2-2632-4365-9767-65d832c42d5b)
