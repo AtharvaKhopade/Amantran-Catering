@@ -3,4 +3,19 @@ Welcome to our Catering Reservation and Ordering presentation. We are committed 
 ![image](https://github.com/AtharvaKhopade/Amantran-Catering/assets/90155235/57425b06-f0e6-414d-8678-d603f917401f)
 
 **Home Page**
+
 ![image](https://github.com/AtharvaKhopade/Amantran-Catering/assets/90155235/ffe5a4f0-3127-4cd2-828b-6bb9e97ba032)
+
+**Services section**
+
+![image](https://github.com/AtharvaKhopade/Amantran-Catering/assets/90155235/40485a5e-4c26-495c-8a24-b439b5c9fedd)
+
+**About-Us section**
+
+
+**Services section**
+
+
+
+**Services section**
+
